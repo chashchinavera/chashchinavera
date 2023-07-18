@@ -14,6 +14,6 @@
 
 ## Мой стек:
 <img src="images/html-chashchinavera.svg" alt="HTML logo" width="50" height="50"><img src="images/css-chashchinavera.svg" alt="CSS logo" width="50" height="50"><img src="images/js-chashchinavera.svg" alt="JS logo" width="50" height="50"><img src="images/git-chashchinavera.svg" alt="Git logo" width="50" height="50"><img src="images/react-chashchinavera.svg" alt="React logo" width="50" height="50"><img src="images/node-js-chashchinavera.png" alt="Node logo" width="50" height="50"><img src="images/mongo-chashchinavera.png" alt="Mongo logo" width="50" height="50"><img src="images/babel-chashchinavera.svg" alt="Babel logo" width="50" height="50"><img src="images/figma-chashchinavera.svg" alt="Figma logo" width="50" height="50"><img src="images/vs-code-chashchinavera.svg" alt="VS Code logo" width="50" height="50"><img src="images/webpack-chashchinavera.svg" alt="Webpack logo" width="50" height="50">
-
+  
 ![Статистика](https://github-readme-stats.vercel.app/api/top-langs/?username=chashchinavera&theme=dark)
 ![Статистика](https://github-readme-stats.vercel.app/api?username=chashchinavera&show_icons=true&theme=dark)
