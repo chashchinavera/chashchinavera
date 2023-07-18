@@ -10,13 +10,12 @@
 
 # **Контакты:**
 <a href="mailto:chaschinavera@gmail.com">
-    <img src="https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Gmail&logoColor=white" alt="E-mail Badge" height="40"/>
+    <img src="https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Gmail&logoColor=white" alt="E-mail Badge" height="30"/>
   </a>
   <a href="https://t.me/chashchinav">
-    <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram Badge" height="40"/>
+    <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram Badge" height="30"/>
   </a>
 
 # **Статистика:**
-***
 ![Статистика](https://github-readme-stats.vercel.app/api/top-langs/?username=chashchinavera&theme=dark)
 ![Статистика](https://github-readme-stats.vercel.app/api?username=chashchinavera&show_icons=true&theme=dark)
